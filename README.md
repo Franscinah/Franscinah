@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Franscinah
-- 👀 I’m interested in java programming language and data analyst.
+- 👀 I’m interested in java programming language, Salesforce and data analyst.
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on java back end and software testing.
 - 📫 How to reach me my whatsapp 0732740782
